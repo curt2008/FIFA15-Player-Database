@@ -1,4 +1,8 @@
-FIFA15-Player-Database
-======================
+FIFA15 Player Database
+=================
 
-A simple SQL that can be imported with all FUT15 players including legends
+### Updates
+I'll be updating the SQL with all new cards that are released!
+
+### Hire me
+If you're interested in any FUT15 projects then be sure to drop me an email at curtis@budgetwebsitesolutions.co.uk or add me on skype : bws-curtis
